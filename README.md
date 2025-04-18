@@ -1,5 +1,7 @@
 # log_analyzer
-Script to make analyzing logs easier
+Script to make analyzing logs easier especially when there are many logs and many different events
+
+The script takes start and end date/time and then extracts those portions from a set of logs and orders them sequentially by log name
 
 Features
 
